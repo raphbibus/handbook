@@ -17,3 +17,4 @@ If you spot typos, find something to be unclear or simply wrong, there are two o
 
 - All files go in assets
 - Stay plain text when possible
+- test
