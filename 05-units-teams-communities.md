@@ -52,7 +52,7 @@ Lead people report directly to our CDO (chief digital officer). The managing dir
 
 ## Teams
 
-Our roles at thomann.io are clustered in different units. Each unit provides different roles. They all assembly in product teams, service teams, or communities.
+Our roles at thomann.io are clustered in different units. Each unit provides different roles. They all assembly in product teams, service teams, or communities. Each team has free choice about their means of work and process frameworks, as long as they contribute value for our customers in regular, short iterations.
 
 ### Product teams
 
@@ -72,6 +72,15 @@ Product teams combine roles from engineering, product, uiux, and agile to own pa
 Service teams usually have their competency in one unit. Examples are our platform team, operations, data or people & culture. They support our product teams in working end-to-end. 
 
 **Important note:** When service teams grow, we'll add their roles to product teams where it makes sense. This enables more autonomous work within the product teams. 
+
+### Switching teams
+
+Should a team member not feel comfortable (like really uncomfortable) with their team, there's an option to switch teams. The highest priority here is to look for direct communication. There are some requirements for finding/forming a new team:
+
+1. Functioning teams must endure
+2. Teams must be able to develop features for their focus topic
+3. Teams shall span multiple locations
+4. A new team constellation shall improve our product development
 
 ## Communities
 
