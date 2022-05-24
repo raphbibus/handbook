@@ -50,7 +50,7 @@ We are one team and are passionate about thomann.de and our app. We put our shar
 
 ### Iterations
 
-Most teams work in **iterations of 2 weeks** and release as often as possible. **“Done”** means our customers use it.
+Most teams plan and work in **iterations of 2 weeks** and release as often as possible. **“Done”** means our customers use it.
 
 ### Sync
 
