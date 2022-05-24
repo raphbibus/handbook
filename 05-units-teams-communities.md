@@ -7,41 +7,48 @@ Your unit is your homebase. Currently, our whole structure is in transformation 
 ### Engineering
 
 Home to: engineers, engineering managers, testers, qa managers
+
 Lead by: technical lead
 
 ### Data
 
 Home to: data analysts, data scientist, business intelligence analysts
+
 Lead by: data lead
 
 ### Operations
 
 Home to: devops engineers, system administrators
+
 Lead by: operations lead
 
 ### People & Culture
 
 Home to: recruiters, people & culture managers, employer branding people
+
 Lead by: people & culture lead
 
 ### Product
 
 Home to: product owners, feedback hub managers
+
 Lead by: head of product
 
 ### Agile
 
 Home to: agile coaches, scrum masters
+
 Lead by: agile lead
 
 ### Business
 
 Home to: business administration, finance people, back office
+
 Lead by: business lead
 
 ## Leads
 
-Lead people report directly to our CDO (chief digital officer).
+Lead people report directly to our CDO (chief digital officer). The managing director of thomann.io reports to our CDO.
 
 ## Teams
 
