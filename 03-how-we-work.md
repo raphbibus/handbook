@@ -15,9 +15,11 @@ To contribute to our company's mission:
 **We create the most inspiring online shopping experience for musicians worldwide.**
 
 The baseline for this mission is
+
 - to create empowered product teams
 - to create innovative products and solutions
 - to continuously deliver value for our organization
+
 We are one team and are passionate about thomann.de and our app. We put our shared goals first and are proud of our work from day one.
 
 ### How we communicate
@@ -26,7 +28,6 @@ We are one team and are passionate about thomann.de and our app. We put our shar
 - **Sharing knowledge:** If something's for the world to come, document it!
 - **Give feedback:** We share positive feedback with the largest group possible: Unit → Team → 1:1. We share negative feedback with the smallest group possible: 1:1 → Team → Unit. Every team member is allowed to give feedback in any direction (360°). We reflect regularly and continuously on all levels. 
 - **No elephants or beating around bushes:** This should not exist. If it does, however, we approach somebody who is able to support us handling and solving the situation. 
-
 
 ### Our way of work
 
