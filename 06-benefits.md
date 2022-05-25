@@ -6,9 +6,11 @@ We pay a 13th salary together with the November salary.
 
 ## Employee discount
 
-You receive Thomann employee discount. The discount depends on a products margin. The formula is "purchase price + 10% + VAT". 
+You receive Thomann employee discount. The discount depends on a product's margin. The formula is "purchase price + 10% + VAT". 
 
 As an example: You'd like to buy a guitar for 800€. Our purchase price might me 450€. The easiest way to calculate: 450€ * 1.1 * 1.19 = 589.05€. This means you'd pay 589.05€ instead of 800€ for the instrument.
+
+If the margin is too tight, it might make more sense to pay the normal price.
 
 ## Equipment
 
