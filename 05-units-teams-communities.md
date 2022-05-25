@@ -1,5 +1,19 @@
 # Units, Teams and Communities
 
+## Leadership
+
+Lead people report directly to our CDO (chief digital officer). The managing director of thomann.io reports to our CDO.
+- Chief digital officer: Dr. Christian Maaß
+- Managing director thomann.io: Jöran Eitel
+- Engineering lead: Daniel Hauck
+- Data lead: Arman Savuk
+- Operations lead: Stefan Stammler
+- People & culture lead: Ann-Kristin Casper
+- Head of product: Julia Manger
+- Agile lead: Ralph Cibis
+- Business lead: tba
+- UIUX lead: tba 
+
 ## Units
 
 Your unit is your homebase. Currently, our whole structure is in transformation to become more product- and data-driven. Units like data or people and culture functions as service teams alongside our product teams. Communities form to follow missions apart from our product vision. 
@@ -8,7 +22,7 @@ Your unit is your homebase. Currently, our whole structure is in transformation 
 
 Home to: engineers, engineering managers, testers, qa managers
 
-Lead by: technical lead
+Lead by: engineering lead
 
 ### Data
 
@@ -46,9 +60,11 @@ Home to: business administration, finance people, back office
 
 Lead by: business lead
 
-## Leads
+### UIUX
 
-Lead people report directly to our CDO (chief digital officer). The managing director of thomann.io reports to our CDO.
+Home to: ux concepters, ui designers
+
+Lead by: uiux lead
 
 ## Teams
 
@@ -90,11 +106,11 @@ Communities are team members that work on a shared mission. Every team member ca
 
 This community syncs all lead people with our CDO. It reports on ongoing yearly objectives and makes strategic decisions for thomann.io aligned with objectives from Thomann GmbH. The community meets weekly.
 
-### UIUX
+### UIUX Community
 
 This community creates a general look & feel for our customer-facing channels. While ui designers are part of our product teams, it's important that they have a place to sync and work on a shared design system. 
 
-### POAC
+### POAC (product owners & agile coaches)
 
 This community brings together our product owners and agile coaches. It's a safe space to exchange about team topics and learn from another. This community follows the Vegas rule and currently does not allow lead persons. The community meets biweekly.
 
@@ -113,6 +129,10 @@ This community takes care of becoming thomann.io.
 ### Lead community
 
 This community syncs all lead people twice a week.
+
+### People Meta Topics
+
+This community takes care of creating onboarding guidelines, appraisal interview templates, training options for team members, and the handbook.
 
 ### Always room for more ideas
 
