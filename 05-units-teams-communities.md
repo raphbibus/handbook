@@ -144,3 +144,9 @@ Make up your own community! If you have an idea, found a community:
 - get started on your mission
 
 **Important note:** make sure that participating in a community doesn't block you in your current role (e.g. engineer in a product team). Be transparent about it and check with your team, if you think the team's performance might decrease.
+
+## Zooming out
+
+thomann.io itself integrates into Thomann Universe just as any other department would. thomann.io functions as Thomann’s tech and data department.
+
+Besides us, there are many other departments, e.g. marketing, logistics, purchase management, sales, customer care, hr, audio professional, etc.
