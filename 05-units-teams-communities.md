@@ -73,6 +73,22 @@ Our roles at thomann.io are clustered in different units. Each unit provides dif
 
 Product teams combine roles from engineering, product, uiux, and agile to own parts of our webshop and app. They use service teams to succeed in their projects.
 
+#### Team bk-nusprig
+
+Topic: state-of-the-art customer experience
+
+#### Team scharf team
+
+Topic: access to assortment and services
+
+#### Team APPic
+
+Topic: Thomann mobile app
+
+#### Team s.toolgang
+
+Topic: tools that improve our business processes
+
 ### Service teams
 
 - engineers and other internal roles as customers
@@ -82,6 +98,22 @@ Product teams combine roles from engineering, product, uiux, and agile to own pa
 Service teams usually have their competency in one unit. Examples are our platform team, operations, data or people & culture. They support our product teams in working end-to-end. 
 
 **Important note:** When service teams grow, we'll add their roles to product teams where it makes sense. This enables more autonomous work within the product teams. 
+
+#### Team Ops
+
+Topic: infrastructure for the Thomann universe
+
+#### Team Data
+
+Topic: everything related to BI and our data warehouse
+
+#### Team Flavortown
+
+Topic: better development experience for thomann.de
+
+#### Team People & Culture
+
+Topic: provide p&c services to teams, communities, and units
 
 ### Switching teams
 
