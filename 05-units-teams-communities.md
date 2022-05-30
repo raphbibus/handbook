@@ -9,8 +9,8 @@ Lead people report directly to our CDO (chief digital officer). The managing dir
 - Data lead: Arman Savuk
 - Operations lead: Stefan Stammler
 - People & culture lead: Ann-Kristin Casper
-- Head of product: Julia Manger
-- Agile lead: Ralph Cibis
+- Product lead: Julia Manger
+- People lead product development: Ralph Cibis
 - Business lead: tba
 - UIUX lead: tba 
 
@@ -42,17 +42,11 @@ Home to: recruiters, people & culture managers, employer branding people
 
 Lead by: people & culture lead
 
-### Product
+### Product Development
 
-Home to: product owners, feedback hub managers
+Home to: product owners, feedback hub managers, agile coaches, scrum masters
 
-Lead by: head of product
-
-### Agile
-
-Home to: agile coaches, scrum masters
-
-Lead by: agile lead
+Lead by: product lead (owns thomann.de and our app), people lead product development
 
 ### Business
 
