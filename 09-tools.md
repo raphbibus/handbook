@@ -13,7 +13,7 @@ Slack is our main communication tool. You can reach every team member of thomann
 
 Both channels are standard channels every newly added team member joins. If you haven't joined yet, please do so.
 
-#review-1 is used by all teams that have something new to present to everybody. If your team is releasing a new feature or has to show off new development experiences, that’s where you should present. Please use @channel to announce your session, providing a Google Meet link and date/time. 
+#review-1 is used by all teams that have something new to present to everybody. Reviews take place every 4 weeks (check the team calendar for details) and are open to join for everybody. Each product team has a 20 minute slot to show the last weeks’ progress and share thoughts with people from other teams. Each product team must send at least one attendee apart from their PO. It will be their responsibility to update all not attending team members on what’s been shared.
 
 ### #thomann-universe, #tech-talk and #bauchpinselei
 
