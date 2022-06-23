@@ -23,6 +23,7 @@ To create the most inspiring online shopping experience for musicians.
 2. Improve the Business Experience with a focus on the check-out.
 3. Operate thomannmusic.com cloud native in the US.
 4. Ensure clear ownerships, roles, rules and processes enabling the teams to reach their goals.
+5. Identify technical debt and create a scalable architecture to move forward
 
 ### Coaching
 
