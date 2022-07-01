@@ -73,7 +73,7 @@ Our roles at thomann.io are clustered in different units. Each unit provides dif
 
 Product teams combine roles from engineering, product, uiux, and agile to own parts of our webshop and app. They use service teams to succeed in their projects.
 
-#### Team bk-nusprig
+#### [Team bk-nusprig](https://thomann.io/blog/a-day-at-the-bk-nusprig-drive-in)
 
 Topic: state-of-the-art customer experience
 
@@ -109,7 +109,7 @@ Topic: everything related to BI and our data warehouse
 
 #### Team Flavortown
 
-Topic: better development experience for thomann.de
+Topic: state-of-the-art development experience for thomann.de
 
 #### Team People & Culture
 
