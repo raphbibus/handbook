@@ -10,5 +10,3 @@
 - [FORMATS AND EDUCATION](08-formats-education.md)
 - [TOOLS](09-tools.md)
 - [OUR RESPONSIBILITY](10-our-responsibility.md)
-
-![Purpose](../assets/handbook-cover.jpg)
